@@ -1,0 +1,24 @@
+header,
+main section,
+article,
+footer {
+  
+  outline: 3px solid rgb(144, 60, 204);
+}
+
+ul, ol, dl {
+  
+  outline: 1px solid rgb(120, 170, 245);
+}
+
+.container,
+.wrapper {
+  
+  outline: 2px solid orange;
+}
+
+h1, h2, h3, a, p, li, img {
+  
+  outline: 2px solid rgb(159, 194, 159);
+}
+
